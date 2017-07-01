@@ -1,0 +1,15 @@
+{
+  "name": "am-are-is",
+  "version": "1.0.0",
+  "description": "A lib to help get the correct form of 'be'",
+  "main": "index.js",
+  "author": "Albert Schapiro <albert@schapiro.se>",
+  "license": "MIT",
+  "dependencies": {
+    "inflected": "^2.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
