@@ -4,9 +4,7 @@ A simple node.js library which uses `inflected` to see if it should return `am`,
 ## Installation
 ```
 yarn add am-are-is
-```
 or
-```
 npm install --save am-are-is
 ```
 
