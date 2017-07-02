@@ -1,6 +1,6 @@
 {
   "name": "am-are-is",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lib to help get the correct form of 'be'",
   "main": "index.js",
   "author": "Albert Schapiro <albert@schapiro.se>",
