@@ -25,5 +25,5 @@ module.exports = function(word) {
     return are;
   }
 
-  throw `Neither am, are or is: ${word}`;
+  throw 'Neither am, are or is: ' + word;
 };
